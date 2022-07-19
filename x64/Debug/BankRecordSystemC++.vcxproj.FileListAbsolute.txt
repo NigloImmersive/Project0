@@ -1,0 +1,2 @@
+D:\SLNProjects\BankRecordSystemC++\x64\Debug\BankRecordSystemC++.exe
+E:\SLNProjects\BankRecordSystemC++\x64\Debug\BankRecordSystemC++.exe
